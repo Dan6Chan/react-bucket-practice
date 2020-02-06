@@ -1,0 +1,4 @@
+export const ADD_COUNT = 'ADD_COUNT';
+export const REDUCE_COUNT = 'REDUCE_COUNT';
+export const ADD_MULTI_COUNT = 'ADD_MULTI_COUNT';
+export const REDUCE_MULTI_COUNT = 'REDUCE_MULTI_COUNT';
